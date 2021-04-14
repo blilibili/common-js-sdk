@@ -232,7 +232,7 @@ function md5Key(nstr , orderId , time){
     'nonceStr='+nstr+'&' +
     'package=prepay_id='+orderId+'&' +
     'signType=MD5&timeStamp='+time+'&' +
-    'key=37b418b677c15de0789d52cbb694b2ec'
+    'key=商户秘钥'
   )
 
 }
