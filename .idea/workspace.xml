@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e32418e-6d1f-482f-b489-3a19cef44796" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/debouceComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2e32418e-6d1f-482f-b489-3a19cef44796" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606804193560</updated>
       <workItem from="1606804194985" duration="804000" />
-      <workItem from="1628844434426" duration="239000" />
+      <workItem from="1628844434426" duration="497000" />
     </task>
     <servers />
   </component>

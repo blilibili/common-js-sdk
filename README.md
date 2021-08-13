@@ -11,7 +11,8 @@
 </Debounce>
 ```
 
-|属性|属性值|
-|type|debounce, throttle|
+| 属性 | 属性值 |
+|  ----  | ----  |
+| type | debounce, throttle |
 |time|时间跨度|
 |event|绑定的事件，例如 input, click|
